@@ -1,3 +1,6 @@
+
+## convert image files of directory in binary and save in xls file
+
 import base64
 import xlsxwriter
 import os, os.path
